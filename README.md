@@ -65,7 +65,6 @@ Taps  Light Control
 Updated Code:
 We added some functionality to update the LEDs so I created a repository 
 with the changes if you want to make modifications on your own.
-Here is the link:
 
 Notes:
 1. There is an adjustment for the capacitive sensors on the back.  If issues
