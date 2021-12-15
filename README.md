@@ -14,26 +14,26 @@ are not supported, and some files may not playback correctly, or at full speed.
 The emulation is certainly not exact, but it does make a good attempt.  
 
 Song List (All of these were sourced from the HVSC 75 SID Collection)
-Christmas_Time_is_Here - 2020 Eric Dobek
-Christmas18 - by 2017 Censor Design 
-The Christmas Song - 1989 Pirates of Denver
-Christmas_Terror - 1991 Rob Peters
-The Electronic Christmas Card - 1985 Tim Cannell
-Official Father Christmas Game - 1989 Alternative Software
-White Christmas - 2007 Crypt (A-Man) Steven Diemer
-A Christmas Song - Nantco Bakker - 1992
-A Christmas Medley - Nantco Bakker - 1992
-Christmas_1989_tune_2 = Yavuz Sukur 1989
-GP Christmas - 2017 Michael Brzeski - Genesis Project
-Christmas_boogie -  Johan Samuelson - 2019
-12 Days of Christmas - Warren Pilkington 1992
-Mice's Christmas - Cris 2020 The Santas
-Feliz Navidad - Jose Feliciano - 2017
-Christmas_One - Unknown Author - 1987
-Rudolph The Red Nosed Reindeer - Klegg & Miztluren - 2007
-Merry Christmas 2017 - Nilsson & Miztluren - 2017
-XMas Demo - Stian Gudbrandsen - 2020
-Frosty The Snowman - Unknown Author - 198x?
+Christmas_Time_is_Here - 2020 Eric Dobek<br>
+Christmas18 - by 2017 Censor Design <br>
+The Christmas Song - 1989 Pirates of Denver<br>
+Christmas_Terror - 1991 Rob Peters<br>
+The Electronic Christmas Card - 1985 Tim Cannell<br>
+Official Father Christmas Game - 1989 Alternative Software<br>
+White Christmas - 2007 Crypt (A-Man) Steven Diemer<br>
+A Christmas Song - Nantco Bakker - 1992<br>
+A Christmas Medley - Nantco Bakker - 1992<br>
+Christmas_1989_tune_2 = Yavuz Sukur 1989<br>
+GP Christmas - 2017 Michael Brzeski - Genesis Project<br>
+Christmas_boogie -  Johan Samuelson - 2019<br>
+12 Days of Christmas - Warren Pilkington 1992<br>
+Mice's Christmas - Cris 2020 The Santas<br>
+Feliz Navidad - Jose Feliciano - 2017<br>
+Christmas_One - Unknown Author - 1987<br>
+Rudolph The Red Nosed Reindeer - Klegg & Miztluren - 2007<br>
+Merry Christmas 2017 - Nilsson & Miztluren - 2017<br>
+XMas Demo - Stian Gudbrandsen - 2020<br>
+Frosty The Snowman - Unknown Author - 198x?<br>
 --------------------------------------------------------------------------------------
 
 Button Function:
